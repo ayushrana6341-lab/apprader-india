@@ -1,0 +1,10 @@
+[
+  { "id": "apps", "name": "New Apps", "nameGu": "નવી Apps", "icon": "📱", "color": "#6366f1" },
+  { "id": "websites", "name": "New Websites", "nameGu": "નવી Websites", "icon": "🌐", "color": "#0ea5e9" },
+  { "id": "ai-tools", "name": "AI Tools", "nameGu": "AI Tools", "icon": "🤖", "color": "#8b5cf6" },
+  { "id": "social-media", "name": "Social Media", "nameGu": "Social Media", "icon": "💬", "color": "#ec4899" },
+  { "id": "gaming", "name": "Gaming", "nameGu": "Gaming", "icon": "🎮", "color": "#f59e0b" },
+  { "id": "fintech", "name": "FinTech", "nameGu": "FinTech", "icon": "💰", "color": "#10b981" },
+  { "id": "india-tech", "name": "India Tech", "nameGu": "India Tech", "icon": "🇮🇳", "color": "#ef4444" },
+  { "id": "world-tech", "name": "World Tech", "nameGu": "World Tech", "icon": "🌍", "color": "#14b8a6" }
+]
